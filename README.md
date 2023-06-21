@@ -16,7 +16,6 @@
 </section>
 
 <section class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1nt3nd&show_icons=tru&theme=tokyonight">
   <div class="container container-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1nt3nd&layout=compact&theme=tokyonight">
   </div>
