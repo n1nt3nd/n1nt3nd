@@ -15,12 +15,6 @@
 
 </section>
 
-<section class="stats">
-  <div class="container container-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1nt3nd&layout=compact&theme=tokyonight">
-  </div>
-</section>
 
 </main>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/N1NT3NDO?theme=dark)
